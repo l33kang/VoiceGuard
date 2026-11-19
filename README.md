@@ -1,8 +1,8 @@
 # VoiceGuard
 
-**AI-Generated Voice Detection Prototype**
+**AI Generated Voice Detection Prototype**
 
-VoiceGuard is an audio classification prototype developed to distinguish between **AI-generated voice** and **human voice** using an Edge Impulse-trained machine learning model and microphone audio.
+VoiceGuard is an audio classification prototype developed to distinguish between **AI generated voice** and **human voice** using an Edge Impulse trained machine learning model and microphone audio.
 
 > **Project status:** Archived prototype / model evidence. The original embedded hardware is no longer available, but the exported inference model and configuration are preserved in this repository.
 
@@ -118,7 +118,7 @@ This repository preserves the **AI voice-classification component**. It should n
 
 The next development step would be to connect the preserved model to a desktop microphone or a web/backend application and evaluate it on new audio samples.
 
-## License and third-party components
+## License and third party components
 
 The generated Edge Impulse SDK contains its own license files and third-party licenses. **Do not remove or replace those license files.**
 
